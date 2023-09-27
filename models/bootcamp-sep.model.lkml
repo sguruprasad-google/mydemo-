@@ -1,5 +1,5 @@
 # Define the database connection to be used for this model.
-connection: "bootcamp-demo-td-simul"
+connection: "bootcamp-demo-bq"
 
 # include all the views
 include: "/views/**/*.view"
