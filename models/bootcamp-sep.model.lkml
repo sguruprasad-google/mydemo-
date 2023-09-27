@@ -1,5 +1,5 @@
 # Define the database connection to be used for this model.
-connection: "bootcamp-demo-bq"
+connection: "bootcamp_demo_bq"
 
 # include all the views
 include: "/views/**/*.view"
